@@ -1,11 +1,11 @@
- ![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome.jpg?raw=true)
+
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
-      <span align="center">Alejandro Taboada Sanchez</span>
+    <h4 align="center">"<em>Hola!</em>"
+      <span align="center">Beyson Madrid</span>
     </h4>
 </span>
 
