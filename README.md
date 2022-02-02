@@ -41,6 +41,8 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://https://flutter.dev/" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="flutter" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_.NET_logo.png/120px-Microsoft_.NET_logo.png" alt="net" width="40" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/vb.svg" alt="net" width="40" height="40"/> </a>
 </p>  
 
 <!-- SUPPORT -->
