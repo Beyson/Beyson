@@ -87,7 +87,4 @@
 <br>
 <br>
 
------
-Credits: [Josue Rojas Vega](https://github.com/JOSUERV99)
 
-Last Edited on: 02/01/2021
