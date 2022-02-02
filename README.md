@@ -55,7 +55,7 @@
     <a align="left">
       <p><img align="left" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyson&langs_count=20" alt="beyson" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Beyson&show_icons=true&theme=dark&locale=en" alt="Beyson" /></p></a>  
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=beyson&show_icons=true&theme=dark&locale=en" alt="beyson" /></p></a>  
   </p>
 </p>
 </div>
