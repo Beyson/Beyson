@@ -4,8 +4,8 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em>Hola! Soy</em>"
-      <span align="center">Beyson Madrid</span>
+    <h4 align="center">"<em>Hola!</em>"
+      <span align="center">Soy Beyson Madrid</span>
     </h4>
 </span>
 
@@ -71,10 +71,14 @@
 <div style="display: block;">
 <p>
   <h3 align="center">Stats:</h3>
-
+<p>
+    <a align="left">
+      <p><img align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Beyson&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="Beyson" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Beyson&show_icons=true&theme=dark&locale=en" alt="Beyson" /></p></a>  
+  </p>
 </p>
 </div>
-<hr>
 <br>
 <br>
 <br>
