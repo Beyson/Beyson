@@ -45,13 +45,6 @@
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/vb.svg" alt="net" width="40" height="40"/> </a>
 </p>  
 
-<!-- SUPPORT -->
-<hr>
-<p>
-  <h3 align="center">Support:</h3>
-  <p>
-  </p>
-</p>
    
 <!-- GITHUB STATS -->
 <hr>
