@@ -4,7 +4,7 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em>Hola!</em>"
+    <h4 align="center">"<em>Hola! Soy</em>"
       <span align="center">Beyson Madrid</span>
     </h4>
 </span>
